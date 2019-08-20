@@ -1,0 +1,51 @@
+{
+  "categories": [
+    {
+      "name": "Person",
+      "display_name": "Raven",
+      "description": "Pythonista",
+      "_id": 1
+    },
+    {
+      "name": "Place",
+      "display_name": "Home",
+      "description": "Nice",
+      "_id": 2
+    },
+    {
+      "name": "Thing",
+      "display_name": "BlenderBottle",
+      "description": "dude",
+      "_id": 3
+    },
+    {
+      "name": "Stuff",
+      "display_name": "notRaven",
+      "description": "dudette",
+      "_id": 4
+    }
+  ],
+  "products": [
+    {
+      "category": "Person",
+      "name": "Evan",
+      "display_name": "notRaven",
+      "description": "dude",
+      "_id": 1
+    },
+    {
+      "category": "Place",
+      "name": "Seattle",
+      "display_name": "EmeraldCity",
+      "description": "Rain",
+      "_id": 2
+    },
+    {
+      "category": "Thing",
+      "name": "Tony",
+      "display_name": "Tiger",
+      "description": "cornFlakes",
+      "_id": 3
+    }
+  ]
+}
