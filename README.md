@@ -5,9 +5,7 @@
 ### Author: Josh Nebe
 
 ### Links and Resources
-* [submission PR](https://github.com/yosh-401-advanced-javascript/lab-06/pull/2)
-* [travis](https://travis-ci.com/yosh-401-advanced-javascript/lab-06.svg?branch=master)
-* [front-end](https://yosh-lab-06.herokuapp.com/)
+* [submission PR](https://github.com/yosh-401-advanced-javascript/lab-06/pull/1)
 
 #### Documentation
 
